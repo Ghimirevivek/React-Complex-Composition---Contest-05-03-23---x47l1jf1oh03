@@ -31,7 +31,7 @@ const App = () => {
       { /* Change code below this line */ }
 <Fruits/>
       { /* Change code above this line */ }
-    </div>
+    </div> 
   )
 }
 
